@@ -71,12 +71,14 @@ black-scholes/
 -----
 ## Sample Results
 
-![Overview](figures/fig1_nvda_overview.png)
+### Overview
+![Overview](fig1_nvda_overview.png)
 
-![Sensitivity Analysis](figures/fig2_sensitivity.png)
+### Sensitivity Analysis
+![Sensitivity Analysis](fig2_sensitivity.png)
 
-![Greeks](figures/fig3_greeks.png)
-
+### Greeks
+![Greeks](fig3_greeks.png)
 --------
 
 ## 👤 Author
